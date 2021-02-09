@@ -40,3 +40,21 @@ I would be adding a little related information for each topic for the user to ge
 ### Observations
 
 As it is my first time to actually get some hands on GraphQL, while exploring few open source projects I got a clear view over the functionality and dynamics of GraphQL and other libraries. It is really interesting how it can accomplish the queries.
+
+
+### Screenshots
+
+* Home Page
+![image](https://user-images.githubusercontent.com/69375044/107315658-6210d700-6a54-11eb-88cf-0ca5ff6b0ccf.png)
+
+
+* Search Results
+![image](https://user-images.githubusercontent.com/69375044/107315830-b451f800-6a54-11eb-8aa4-ca97ac6bc245.png)
+
+
+* Related Topics
+![image](https://user-images.githubusercontent.com/69375044/107315880-c9c72200-6a54-11eb-8409-ef487f79af23.png)
+
+
+
+
